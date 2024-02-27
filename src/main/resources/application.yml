@@ -2,8 +2,8 @@ spring:
   application:
     name: todo-app
   datasource:
-    url: jdbc:postgresql://dpg-ch1qjel269v61fa7aaog-a.singapore-postgres.render.com:5432/rean
-    password: 3AOPwkmundHGvpIf14cKHsgM27lBTYYf
+    url: jdbc:postgres://app_uenm_user:hbD2aWjHLqCs0hFtPn5vpq5Pu2GZFDQm@dpg-cnesr67sc6pc73cpe2k0-a/app_uenm
+    password: hbD2aWjHLqCs0hFtPn5vpq5Pu2GZFDQm
     username: rean
     driver-class-name: org.postgresql.Driver
   jpa:
